@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("Yoohoo!!\n");
-    printf("I am Feature2!!\n");
+    printf("I am Feature1!!\n");
     return 0;
 }
